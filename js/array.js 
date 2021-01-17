@@ -1,0 +1,7 @@
+console.log('myliu');
+
+/*
+Array - bet kokiu elementu sarasas (prioritetas to paties tipo elementai)
+*/
+const tusciapinigine = {};
+console.log(tusciapinigine);
